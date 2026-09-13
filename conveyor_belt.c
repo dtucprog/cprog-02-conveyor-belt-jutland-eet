@@ -1,9 +1,3 @@
-/* Name : conveyor_belt.c
-   Purpose : determine whether a conveyor belt system can safely transport a collection of packages
-   Author : Hamlet Jutland
-*/
-
-
 #include <stdio.h>
 
 #define MOTOR_CAPACITY 12
