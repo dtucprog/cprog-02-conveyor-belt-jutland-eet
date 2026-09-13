@@ -3,8 +3,8 @@
 #define MOTOR_CAPACITY 12
 
 int main(void) {
-    int motorCount;
-    int totalPackageWeight;
+    int motorCount = 0;
+    int totalPackageWeight = 0;
 
     printf("How many motors are carrying the packages?\n");
     scanf("%d", &motorCount);
