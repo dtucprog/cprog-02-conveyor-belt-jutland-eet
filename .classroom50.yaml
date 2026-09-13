@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "cprog"
+assignment: "02-conveyor-belt"
+owner:
+  username: "Jutland-EET"
+  id: 322523836
+  accepted_at: "2026-09-13T10:28:32Z"
+source:
+  owner: "dtucprog"
+  owner_id: 316954301
+  repo: "02-conveyor-belt"
+  branch: "main"
